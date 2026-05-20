@@ -7,4 +7,4 @@ This Organization serves as a gathering place for the members of the Cloudflare 
 
 You can check out the [Community Website](https://cloudflare.community) for more resources.
 
-Come say hi in the [Orange Cloud Discord](https://discord.gg/mPBE5QsHA)!
+Come say hi in the [Orange Cloud Discord](https://discord.gg/TrPNVKaagR)!
